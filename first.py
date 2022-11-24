@@ -1,1 +1,1 @@
-print("secondo test sincronizzazione")
+print("terza test sincronizzazione")
